@@ -1,4 +1,4 @@
-region = "us-east-2"
+zone = "cloudposse.co"
 
 namespace = "eg"
 
