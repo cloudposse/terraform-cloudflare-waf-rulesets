@@ -1,4 +1,4 @@
-zone = "cloudposse.co"
+zone = "test-automation.app"
 
 namespace = "eg"
 

@@ -29,9 +29,6 @@ badges:
 - name: Slack Community
   image: https://slack.cloudposse.com/badge.svg
   url: https://slack.cloudposse.com
-- name: Discourse Forum
-  image: https://img.shields.io/discourse/https/ask.sweetops.com/posts.svg
-  url: https://ask.sweetops.com/
 
 # List any related terraform modules that this module may be used with or that this module depends on.
 related:
@@ -42,9 +39,6 @@ related:
 - name: terraform-cloudflare-zone
   description:
   url: https://github.com/cloudposse/terraform-cloudflare-zone
-- name: terraform-cloudflare-waf-rulesets
-  description:
-  url: https://github.com/cloudposse/terraform-cloudflare-waf-rulesets
 references:
 - name: terraform-provider-cloudflare
   description: Cloudflare Terraform Provider
@@ -110,7 +104,7 @@ usage: |-
 # Example usage
 examples: |-
   Here is an example of using this module:
-  - [`examples/complete`](https://github.com/cloudposse/terraform-cloudflare-waf-rulesets/) - complete example of using this module
+  - [`examples/complete`](examples/complete) - complete example of using this module
 
 # How to get started quickly
 #quickstart: |-

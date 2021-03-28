@@ -1,5 +1,5 @@
 <!-- markdownlint-disable -->
-# terraform-cloudflare-waf-rulesets [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-cloudflare-waf-rulesets.svg)](https://github.com/cloudposse/terraform-cloudflare-waf-rulesets/releases/latest) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com) [![Discourse Forum](https://img.shields.io/discourse/https/ask.sweetops.com/posts.svg)](https://ask.sweetops.com/)
+# terraform-cloudflare-waf-rulesets [![Latest Release](https://img.shields.io/github/release/cloudposse/terraform-cloudflare-waf-rulesets.svg)](https://github.com/cloudposse/terraform-cloudflare-waf-rulesets/releases/latest) [![Slack Community](https://slack.cloudposse.com/badge.svg)](https://slack.cloudposse.com)
 <!-- markdownlint-restore -->
 
 [![README Header][readme_header_img]][readme_header_link]
@@ -149,7 +149,7 @@ module "waf_rulesets" {
 ## Examples
 
 Here is an example of using this module:
-- [`examples/complete`](https://github.com/cloudposse/terraform-cloudflare-waf-rulesets/) - complete example of using this module
+- [`examples/complete`](examples/complete) - complete example of using this module
 
 
 
@@ -240,7 +240,6 @@ Check out these related projects.
 
 - [terraform-null-label](https://github.com/cloudposse/terraform-null-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
 - [terraform-cloudflare-zone](https://github.com/cloudposse/terraform-cloudflare-zone) - %!s(<nil>)
-- [terraform-cloudflare-waf-rulesets](https://github.com/cloudposse/terraform-cloudflare-waf-rulesets) - %!s(<nil>)
 
 
 
