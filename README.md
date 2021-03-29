@@ -29,7 +29,7 @@
 
 Terraform module to manage CloudFlare WAF rulesetes. 
 
-NOTE: This module has started as hardfork of https://github.com/innovationnorway/terraform-cloudflare-waf-rulesets with adoption to `ClouPosse` code style.
+__NOTE:__ This module is a hard fork of [Innovation Norway's](https://github.com/innovationnorway/terraform-cloudflare-waf-rulesets) terraform module and adapted to Cloud Posse conventions.
 
 
 ---
