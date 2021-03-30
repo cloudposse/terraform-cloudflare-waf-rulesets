@@ -1,4 +1,4 @@
-variable "example" {
+variable "zone" {
   type        = string
-  description = "The value which will be passed to the example module"
+  description = "The name of the DNS zone."
 }
