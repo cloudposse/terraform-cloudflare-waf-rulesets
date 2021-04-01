@@ -37,7 +37,7 @@ related:
     stage, name, [attributes])
   url: https://github.com/cloudposse/terraform-null-label
 - name: terraform-cloudflare-zone
-  description:
+  description: Terraform module to provision a CloudFlare zone with DNS records, Argo, Firewall filters and rules
   url: https://github.com/cloudposse/terraform-cloudflare-zone
 references:
 - name: terraform-provider-cloudflare

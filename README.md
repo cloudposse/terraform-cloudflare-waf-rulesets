@@ -239,7 +239,7 @@ Are you using this project or any of our other projects? Consider [leaving a tes
 Check out these related projects.
 
 - [terraform-null-label](https://github.com/cloudposse/terraform-null-label) - Terraform Module to define a consistent naming convention by (namespace, stage, name, [attributes])
-- [terraform-cloudflare-zone](https://github.com/cloudposse/terraform-cloudflare-zone) - %!s(<nil>)
+- [terraform-cloudflare-zone](https://github.com/cloudposse/terraform-cloudflare-zone) - Terraform module to provision a CloudFlare zone with DNS records, Argo, Firewall filters and rules
 
 
 
