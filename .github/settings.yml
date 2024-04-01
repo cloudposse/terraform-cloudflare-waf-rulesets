@@ -1,0 +1,7 @@
+# Upstream changes from _extends are only recognized when modifications are made to this file in the default branch.
+_extends: .github
+repository:
+  name: terraform-cloudflare-waf-rulesets
+  description: Terraform module to manage CloudFlare WAF rulesetes.
+  homepage: https://cloudposse.com/accelerate
+  topics: terraform, terraform-module, cloudflare, compliance, security, terraform-modules
